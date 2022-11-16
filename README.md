@@ -1,5 +1,5 @@
 # Miniscope_cleaning_GUI
-Matlab GUI to clean preprocessed Miniscope data in the Willuhn lab at the Netherlands Institute for Neuroscience. 
+[Matlab] GUI to clean preprocessed Miniscope data in the Willuhn lab at the Netherlands Institute for Neuroscience. 
 
 This Matlab GUI requires CNMF-E output as input and enables the user to inspect all (potential) neurons.
 
