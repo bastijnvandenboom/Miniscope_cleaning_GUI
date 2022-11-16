@@ -31,3 +31,5 @@ Merge (average neuron pair spatially and temporal trace):
 - press "Merge" to merge the pairs on the merge list
 - use "save files to" to save output file
 - RESTART GUI 
+
+GUI written by Aishwarya Parthasarathy, PhD
